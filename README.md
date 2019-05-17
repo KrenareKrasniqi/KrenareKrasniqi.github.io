@@ -1,11 +1,9 @@
 # Riga Technical University
 ## Final Report in the subject Telecommunication Software
 
+Week 14 project [411-W14](https://github.com/KrenareKrasniqi/411-W14/blob/master/README.md)
 
-
-
-The Week 14 project [411-W14](https://github.com/KrenareKrasniqi/411-W14/blob/master/README.md)
-
+Week 13 project [Week13](https://github.com/KrenareKrasniqi/Week13)
 
 You can use the [editor on GitHub](https://github.com/KrenareKrasniqi/KrenareKrasniqi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
