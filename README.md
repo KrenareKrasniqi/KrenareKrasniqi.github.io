@@ -1,5 +1,8 @@
 ## Final Report in the subject Telecommunication Software
 
+
+
+
 The Week 14 project [411-W14](https://github.com/KrenareKrasniqi/411-W14/blob/master/README.md)
 
 
