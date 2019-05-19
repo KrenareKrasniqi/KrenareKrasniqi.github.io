@@ -8,7 +8,7 @@ Week 13 project [Week13](https://github.com/KrenareKrasniqi/Week13/blob/master/R
 
 Week 12 project [Week12](https://github.com/KrenareKrasniqi/Week12/blob/master/README.md)
 
-Week 10 project [411-MPT](https://github.com/KrenareKrasniqi/411-MTP/blob/master/README.md)
+Week 11 project [411-MPT](https://github.com/KrenareKrasniqi/411-MTP/blob/master/README.md)
 
 Week 7 project [Week7](https://github.com/KrenareKrasniqi/Week7/blob/master/README.md)
 
