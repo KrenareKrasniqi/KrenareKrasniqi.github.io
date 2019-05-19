@@ -1,6 +1,6 @@
 # Riga Technical University
 
-## Final Report in the Telecommunication Software subject 
+## Projects in the Telecommunication Software subject 
 
 Week 14 project [411-W14](https://github.com/KrenareKrasniqi/411-W14/blob/master/README.md)
 
